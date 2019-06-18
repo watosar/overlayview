@@ -1,0 +1,19 @@
+[
+  {
+    "nodes" : [
+
+    ],
+    "frame" : "{{0, 0}, {299, 295}}",
+    "class" : "View",
+    "attributes" : {
+      "flex" : "",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "custom_class" : "",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "body"
+    },
+    "selected" : false
+  }
+]
